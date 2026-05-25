@@ -1,0 +1,8 @@
+{
+  "name": "Cambodia SMM Panel with KHQR",
+  "description": "Modern SMM Panel system built in PHP 8+ MVC with MySQL and ABA/Bakong dynamic KHQR integration. Includes active simulation and full source code generator.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
